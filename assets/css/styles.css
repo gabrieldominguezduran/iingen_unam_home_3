@@ -65,22 +65,20 @@ body {
   width: auto;
   height: auto;
 }
-
+/*E V E N T O S */
 .section__two {
   background-image: url("../img/auditorio.JPG");
   display: block;
+  position: relative;
   max-width: 100vw;
   min-height: 90vh;
   width: auto;
   height: fit-content;
 }
 
-/*E V E N T O S */
-
 .dates {
   font-family: "Montserrat", sans-serif;
   display: flex;
-
   color: #fff;
   width: 80%;
   margin: auto;
@@ -260,7 +258,7 @@ section.date a:active {
 .red-div {
   background-image: url("../img/dot-grid.webp");
   width: 100vw;
-  height: 80vh;
+  height: 100vh;
   padding: 100px 0px;
   display: block;
   z-index: 1;
