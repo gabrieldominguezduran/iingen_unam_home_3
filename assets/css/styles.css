@@ -20,6 +20,10 @@ body {
   height: 100vh;
 }
 
+section {
+  scroll-margin-top: 5rem;
+}
+
 .navbar {
   background-color: rgba(0, 0, 0, 0.609);
   box-shadow: rgba(0, 0, 0, 0.3) 4px 4px 4px;
